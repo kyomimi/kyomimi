@@ -1,7 +1,7 @@
-## Welcom to Kyomimi's github
+## Hi there! Welcom to kyomimi's github
 
-### About me
-#### 大阪ハイテクノロジー専門学校人工知能学科在籍(2022年04月～）
+<!--### About me
+#### 大阪ハイテクノロジー専門学校人工知能学科在籍(2022年04月～）>
 
 
 
