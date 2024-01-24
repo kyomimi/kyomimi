@@ -19,6 +19,8 @@
     <li>Slack<br>
     <li>VScode<br>
     <li>Teams<br>
+    <li>Google Colaboratory<br>
+    <li>Jupyter Notebook<br>
 
 <h2>Achievements</h2>
     <li>学内プログラミングコンテスト2位
