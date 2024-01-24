@@ -6,15 +6,25 @@
 
 <h2>About me</h2>
     <li>所属：大阪ハイテクノロジー専門学校 人工知能学科(2022年04月～)
-    <br>人工知能学科でリスキリング中</li>
+    <br>　人工知能学科でリスキリング中</li>
 <h2>Skill</h2>
     <li>Python(pandas,matplotlib)<br>
     <li>HTML,JavaScript<br>
     <li>PHP<br>
     <li>C++<br>
+
+<h2>tools</h2>
+    <li>Notion<br>
+    <li>Discord<br>
+    <li>Slack<br>
+    <li>VScode<br>
+    <li>Teams<br>
+
 <h2>Achievements</h2>
     <li>学内プログラミングコンテスト2位
     <li>TeacSeekeerハッカソン2023参加(project:顔認識ぬいぐるみ開発)
+
+
 <h2>Fusion 360 学生デザインコンテスト実績</h2>
     <h3><b>優秀賞</b></h3>
         <li>2023年第3回　水を使ったプロダクト  <a href="https://a360.co/3pmB3Vi" target="_blank">四季を彩るルームフレグランス</a>
