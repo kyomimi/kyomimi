@@ -13,7 +13,7 @@
     <li>TeacSeekeerハッカソン2023参加(project:顔認識ぬいぐるみ開発)
 <h2>Fusion 360 学生デザインコンテスト実績</h2>
     <h3><b>優秀賞</b></h3>
-        <li>2023年第3回　水を使ったプロダクト<a>四季を彩るルームフレグランス<href="https://a360.co/3pmB3Vi" target="_blank"></a>
+        <li>2023年第3回　水を使ったプロダクト<a href="https://a360.co/3pmB3Vi" target="_blank">四季を彩るルームフレグランス</a>
 
 <h3><b>動画内紹介</b></h3>
     <li>2022年第5回　ぼくのわたしの夏休み　　<a href="https://a360.co/3OyFOBJ" target="_blank">金魚鉢</a>
