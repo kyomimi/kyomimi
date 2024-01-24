@@ -1,5 +1,9 @@
 <h2>Hi there!<br>Welcom to kyomimi's github</h2>
 
+[![kyomimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyomimi&theme=vue-dark&show_icons=true)](https://github.com/kyomimi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyomimi&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kyomimi/github-readme-stats)
+
 <h2>About me</h2>
     <li>所属：大阪ハイテクノロジー専門学校 人工知能学科(2022年04月～)
     <br>人工知能学科でリスキリング中</li>
@@ -13,7 +17,7 @@
     <li>TeacSeekeerハッカソン2023参加(project:顔認識ぬいぐるみ開発)
 <h2>Fusion 360 学生デザインコンテスト実績</h2>
     <h3><b>優秀賞</b></h3>
-        <li>2023年第3回　水を使ったプロダクト<a href="https://a360.co/3pmB3Vi" target="_blank">四季を彩るルームフレグランス</a>
+        <li>2023年第3回　水を使ったプロダクト  <a href="https://a360.co/3pmB3Vi" target="_blank">四季を彩るルームフレグランス</a>
 
 <h3><b>動画内紹介</b></h3>
     <li>2022年第5回　ぼくのわたしの夏休み　　<a href="https://a360.co/3OyFOBJ" target="_blank">金魚鉢</a>
@@ -24,6 +28,9 @@
 
 <li>2023年第8回　花瓶　　<a href="https://a360.co/46EQfg7" target="_blank">午後のフラワー</a>
 <br>
+
+
+
 <!--
 **kyomimi/kyomimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![kyomimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyomimi&theme=vue-dark&show_icons=true)](https://github.com/kyomimi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyomimi&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kyomimi/github-readme-stats)
