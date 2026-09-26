@@ -1,9 +1,5 @@
 <h2>Hi there!<br>Welcom to kyomimi's github</h2>
 
-[![kyomimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyomimi&theme=vue-dark&show_icons=true)](https://github.com/kyomimi/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyomimi&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kyomimi/github-readme-stats)
-
 <h2>About me</h2>
     <li>所属：大阪ハイテクノロジー専門学校 人工知能学科(2022年04月～)
     <br>　人工知能学科でリスキリング中</li>
