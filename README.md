@@ -1,8 +1,5 @@
 <h2>Hi there!<br>Welcom to kyomimi's github</h2>
 
-<h2>About me</h2>
-    <li>所属：大阪ハイテクノロジー専門学校 人工知能学科(2022年04月～)
-    <br>　人工知能学科でリスキリング中</li>
 <h2>Skill</h2>
     <li>Python(pandas,matplotlib)<br>
     <li>HTML,JavaScript<br>
