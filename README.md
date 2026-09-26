@@ -15,9 +15,9 @@
     <li>Google Colaboratory<br>
     <li>Jupyter Notebook<br>
 
-<h2>Achievements</h2>
+<!-- <h2>Achievements</h2>
     <li>学内プログラミングコンテスト2位
-    <li>TeacSeekeerハッカソン2023参加(project:顔認識ぬいぐるみ開発)
+    <li>TeacSeekeerハッカソン2023参加(project:顔認識ぬいぐるみ開発) -->
 
 
 <h2>Fusion 360 学生デザインコンテスト実績</h2>
